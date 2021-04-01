@@ -1,0 +1,7 @@
+---
+title: "Learning to refernece figures,tables and sections."
+author: "Nishtha"
+date: "`r Sys.Date()`"
+output: bookdown::html_document2
+keep_md: true
+---
